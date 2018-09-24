@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "start-webpack-dev-server-hot": "^0.1.0",
+    "style-loader": "^0.21.0",
+    "stylus-loader": "^3.0.2"
+  },
+  "scripts": {
+"dev": "webpack-dev-server --inline --hot --open --port 5008"
+}
+
+  
+}
